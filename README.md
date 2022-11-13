@@ -169,17 +169,16 @@ endmodule
 
 ### RTL LOGIC FOR FLIPFLOPS 
 
-
-
-
-
+![output](d51.png)
+![output](d52.png)
 
 
 
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
-
+![output](d53.png)
+![output](d54.png)
 
 
 
